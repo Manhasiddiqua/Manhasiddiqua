@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manhasiddiqua
 - 👀 I’m interested in Software and Data Networking
-- 🌱 I’m currently a second-year ECE student at the University of Toronto Engineering
-- 💞️ I’m looking to find Summer 2025 co-op positions
+- 🌱 I’m currently a Third-year ECE student at the University of Toronto Engineering
+- 💞️ I’m looking to find co-op positions
 - 📫 How to reach me at manha.siddiqua05@gmail.com and check out my profile!
 
 <!---
